@@ -1,0 +1,9 @@
+do you need any platform/portal where you want to upload files
+- considering, user is uploading file using web browser, on uploading the file, the file gets saved to the server. After that we are fetching the file from the server.
+what file formats should be there?
+- considering the allowed formats, in our case we have taken .txt
+file size boundation?
+- 5 kb 
+where you want to output the data?
+- we are consoling the data. we can easily
+
